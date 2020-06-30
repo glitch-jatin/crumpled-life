@@ -1,1 +1,2 @@
-# crumpled-life
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
